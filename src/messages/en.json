@@ -1,0 +1,23 @@
+{
+  "LoginPage": {
+    "login": "Login",
+    "comment": "This starter template has saved me countless hours of work and helped me deliver projects to my clients faster than ever               before.",
+    "createAccount": "Create an account",
+    "subtitle": "Enter your email below to create your account",
+    "tos": {
+      "title": "By clicking continue, you agree to our",
+      "tos": "Terms of Service",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "and": "and",
+    "authForm": {
+      "email": {
+        "title": "Email",
+        "placeholder": "Enter your email..."
+      },
+      "continueEmail": "Continue With Email",
+      "or": "or continue with",
+      "continueGithub": "Continue with Github"
+    }
+  }
+}

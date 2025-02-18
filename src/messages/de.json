@@ -1,0 +1,23 @@
+{
+  "LoginPage": {
+    "login": "Login",
+    "comment": "Diese Startervorlage hat mir unzählige Arbeitsstunden gespart und mir geholfen, meine Kunden schneller als je zuvor Projekte zu liefern.",
+    "createAccount": "Ein Konto erstellen",
+    "subtitle": "Geben Sie unten Ihre E -Mail ein, um Ihr Konto zu erstellen",
+    "tos": {
+      "title": "Wenn Sie weiter klicken, stimmen Sie unserem zu",
+      "tos": "Nutzungsbedingungen",
+      "privacyPolicy": "Datenschutzrichtlinie"
+    },
+    "and": "und",
+    "authForm": {
+      "email": {
+        "title": "E-Mail",
+        "placeholder": "Geben Sie Ihre E -Mail ein ..."
+      },
+      "continueEmail": "Fahren Sie mit E -Mail fort",
+      "or": "oder weiter mit",
+      "continueGithub": "Fahren Sie mit Github fort"
+    }
+  }
+}
